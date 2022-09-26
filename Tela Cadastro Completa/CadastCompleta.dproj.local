@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/08 11:10:52.000.596,=C:\Users\silvi\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/08 11:12:01.000.244,C:\Users\silvi\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\silvi\OneDrive\Documents\Embarcadero\Studio\Projects\Tela Cadastro Completa\unitPrincipal.dfm</Transaction>
+    <Transaction>2022/09/08 11:12:01.000.244,C:\Users\silvi\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\silvi\OneDrive\Documents\Embarcadero\Studio\Projects\Tela Cadastro Completa\unitPrincipal.pas</Transaction>
+    <Transaction>2022/09/08 11:12:30.000.920,C:\Users\silvi\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\silvi\OneDrive\Documents\Embarcadero\Studio\Projects\Tela Cadastro Completa\CadastCompleta.dproj</Transaction>
+    <Transaction>2022/09/15 18:58:19.392,=C:\Users\silvi\OneDrive\Documents\Embarcadero\Studio\Projects\Tela Cadastro Completa\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
